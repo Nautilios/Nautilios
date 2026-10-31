@@ -7,7 +7,6 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/l1k1Nem4OwMAAAAd/inabakumori-chica.gif" height="170" alt="anime gif" />
   <br/>
-  <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Hola+👋+soy+Nautilios;Estudiante+de+Ingeniería+de+Sistemas+💻;Desarrollo+de+Software+%26+Ilustraciones+con+IA+🎨;Aprendiendo+algo+nuevo+cada+día+✨" alt="Typing SVG" />
   </a>
 </div>
