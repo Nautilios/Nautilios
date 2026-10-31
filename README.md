@@ -6,7 +6,7 @@
 
 <p align="center">
   Estudiante de Ingeniería de Sistemas y Desarrollo de Software.<br/>
-  Me gusta programar, el anime y crear ilustraciones con IA.
+  Me gusta programar
 </p>
 
 <div align="center">
