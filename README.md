@@ -13,7 +13,6 @@
 
 <p align="center">
   🌸 Me apasiona programar y el procesamiento/mejora de imágenes<br/>
-  🎨 Me gusta crear ilustraciones con IA<br/>
   📚 Estudiando Ingeniería de Sistemas y Desarrollo de Software<br/>
   🎮 Con ganas de crear mi propio juego algún día
 </p>
