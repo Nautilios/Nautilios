@@ -12,7 +12,7 @@
 <h2 align="center">✧･ﾟ: *✧･ﾟ:* Sobre mí *:･ﾟ✧*:･ﾟ✧</h2>
 
 <p align="center">
-  🌸 Me apasiona programar, el anime y el procesamiento/mejora de imágenes<br/>
+  🌸 Me apasiona programar y el procesamiento/mejora de imágenes<br/>
   🎨 Me gusta crear ilustraciones con IA<br/>
   📚 Estudiando Ingeniería de Sistemas y Desarrollo de Software<br/>
   🎮 Con ganas de crear mi propio juego algún día
