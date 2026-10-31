@@ -65,7 +65,7 @@
 </div>
 
 <!-- REDES -->
-<h2 align="center">💌 Conecta conmigo 💌</h2>
+<h2 align="center"> Conecta conmigo </h2>
 
 <div align="center">
   <a href="TU_LINK_YOUTUBE"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube" /></a>
