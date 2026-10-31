@@ -23,10 +23,5 @@
 <br/>
 
 <div align="center">
-  <a href="TU_LINK_YOUTUBE"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=flat" height="25" alt="youtube" /></a>
-  <a href="TU_LINK_INSTAGRAM"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=flat" height="25" alt="instagram" /></a>
-  <a href="TU_LINK_TWITCH"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=flat" height="25" alt="twitch" /></a>
   <a href="TU_LINK_DISCORD"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat" height="25" alt="discord" /></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="25" alt="gmail" /></a>
-  <a href="TU_LINK_LINKEDIN"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="25" alt="linkedin" /></a>
 </div>
