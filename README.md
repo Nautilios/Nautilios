@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/l1k1Nem4OwMAAAAd/inabakumori-chica.gif" height="170" alt="anime gif" />
   <br/>
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Hola+👋+soy+Nautilios;Estudiante+de+Ingeniería+de+Sistemas+💻;Desarrollo+de+Software+%26+Ilustraciones+con+IA+🎨;Aprendiendo+algo+nuevo+cada+día+✨" alt="Typing SVG" />
   </a>
 </div>
@@ -64,7 +65,7 @@
 </div>
 
 <!-- REDES -->
-<h2 align="center"> Conecta conmigo </h2>
+<h2 align="center">💌 Conecta conmigo 💌</h2>
 
 <div align="center">
   <a href="TU_LINK_YOUTUBE"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube" /></a>
